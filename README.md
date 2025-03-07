@@ -1,4 +1,4 @@
-# Aplikasi Klinik
+# Aplikasi Point of Sale
 
 ### Oleh Muhammad Azzam Asy Syamil
 
